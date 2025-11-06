@@ -49,6 +49,10 @@ ul li a{
 width: 100%;
 
 }
+video{
+
+    border-radius: 20px;
+}
 .box1{
 
     padding: 30px;
@@ -141,7 +145,6 @@ h3{
 
 width: 100%;
 
-background-image: linear-gradient(white,#085c5c);
 
 margin: auto auto auto auto;
 border-radius: 20px;
@@ -158,7 +161,7 @@ hr{
 text-align: center;
     color: #085c5c;
     font-size: 40px;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-weight: bold;
 }
 
 .media  h2{
@@ -191,7 +194,7 @@ text-align: center;
 .Placement p{
     text-align: center;
     
-    
+
 }
 .box3{
     display: flex;
@@ -206,6 +209,11 @@ text-align: center;
     font-size: 15px;
     text-align: center;
     padding: 20px;
+}
+.box33 h1{
+    font-size: 50px;
+    color: #085c5c;
+    font-weight: bold;
 }
 
 .img3{
@@ -222,3 +230,5 @@ text-align: center;
 .ul33 li{
     flex-direction: column;
 }
+
+
